@@ -1,12 +1,12 @@
 {
 	"channels": {
 		"channels": [{
-				"id": "C1a",
+				"id": "C1c",
 				"title": "Channel 1",
 				"description": "Channel 1"
 			},
 			{
-				"id": "C2b",
+				"id": "C2d",
 				"title": "Channel 2",
 				"description": "Channel 2"
 			}
