@@ -1,13 +1,13 @@
 {
   "channels": [
-    { "guid": "C1", "title": "Channel 1", "description": "Channel 1" },
-    { "guid": "C2", "title": "Channel 2", "description": "Channel 2" },
-    { "guid": "C3", "title": "Channel 3", "description": "Channel 3" }
+    { "id": "C1", "title": "Channel 1", "description": "Channel 1" },
+    { "id": "C2", "title": "Channel 2", "description": "Channel 2" },
+    { "id": "C3", "title": "Channel 3", "description": "Channel 3" }
   ],
   "stores": [
-    { "guid": "S1", "channelGuid": "C1", "title": "Store 1", "description": "Store 1" },
-    { "guid": "S2", "channelGuid": "C2", "title": "Store 2", "description": "Store 2" },
-    { "guid": "S3", "channelGuid": "C2", "title": "Store 3", "description": "Store 3" }
+    { "id": "S1", "channelID": "C1", "title": "Store 1", "description": "Store 1" },
+    { "id": "S2", "channelID": "C2", "title": "Store 2", "description": "Store 2" },
+    { "id": "S3", "channelID": "C2", "title": "Store 3", "description": "Store 3" }
   ],
   "profile": {
     "name": "typicode"
