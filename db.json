@@ -1,10 +1,10 @@
 {
   "channels": {
-    [ 
+    
       "channels" : [{ "id": "C1", "title": "Channel 1", "description": "Channel 1" },
       { "id": "C2", "title": "Channel 2", "description": "Channel 2" },
       { "id": "C3", "title": "Channel 3", "description": "Channel 3" }]
-    ]
+    
   },
   "stores": [
     { "id": "S1", "channelID": "C1", "title": "Store 1", "description": "Store 1" },
