@@ -11,5 +11,26 @@
 				"description": "Channel 2"
 			}
 		]
+	},
+	"stores": {
+		"stores": [{
+				"id": "S1",
+				"channelid": "C1c",
+				"title": "Store 1",
+				"description": "Store 1"
+			},
+			{
+				"id": "S2",
+				"channelid": "C2d",
+				"title": "Store 2",
+				"description": "Store 2"
+			},
+			{
+				"id": "S3",
+				"channelid": "C2d",
+				"title": "Store 3",
+				"description": "Store 3"
+			}
+		]
 	}
 }
