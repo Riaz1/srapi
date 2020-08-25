@@ -1,9 +1,20 @@
 {
-  "channels" : {
-    "channels" : [
-      { "id": "C1x", "title": "Channel 1", "description": "Channel 1" },
-      { "id": "C2y", "title": "Channel 2", "description": "Channel 2" },
-      { "id": "C3z", "title": "Channel 3", "description": "Channel 3" }
-    ],
-  }
+	"channels": {
+		"channels": [{
+				"id": "C1x",
+				"title": "Channel 1",
+				"description": "Channel 1"
+			},
+			{
+				"id": "C2y",
+				"title": "Channel 2",
+				"description": "Channel 2"
+			},
+			{
+				"id": "C3z",
+				"title": "Channel 3",
+				"description": "Channel 3"
+			}
+		]
+	}
 }
