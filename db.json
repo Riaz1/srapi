@@ -5,15 +5,5 @@
       { "id": "C2y", "title": "Channel 2", "description": "Channel 2" },
       { "id": "C3z", "title": "Channel 3", "description": "Channel 3" }
     ],
-  },
-    "stores": { 
-      "stores": [
-        { "id": "S1", "channelID": "C1x", "title": "Store 1", "description": "Store 1" },
-        { "id": "S2", "channelID": "C2y", "title": "Store 2", "description": "Store 2" },
-        { "id": "S3", "channelID": "C2z", "title": "Store 3", "description": "Store 3" }
-    ],
-  },
-  "profile": {
-    "name": "typicode"
   }
 }
