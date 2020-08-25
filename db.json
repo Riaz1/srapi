@@ -1,12 +1,13 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "channels": [
+    { "guid": "C1", "title": "Channel 1", "description": "Channel 1" },
+    { "guid": "C2", "title": "Channel 2", "description": "Channel 2" },
+    { "guid": "C3", "title": "Channel 3", "description": "Channel 3" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "stores": [
+    { "guid": "S1", "channelGuid": "C1", "title": "Store 1", "description": "Store 1" },
+    { "guid": "S2", "channelGuid": "C2", "title": "Store 2", "description": "Store 2" },
+    { "guid": "S3", "channelGuid": "C2", "title": "Store 3", "description": "Store 3" }
   ],
   "profile": {
     "name": "typicode"
