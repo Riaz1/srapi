@@ -15,19 +15,23 @@
 	"stores": {
 		"stores": [{
 				"id": "S1",
-				"channelid": "C1c",
+				"channelId": "C1c",
+				"channelTitle" : "Channel 1",
 				"title": "Store 1",
 				"description": "Store 1"
 			},
 			{
 				"id": "S2",
-				"channelid": "C2d",
+				"channelId": "C2d",
+				"channelTitle" : "Channel 2",
+				"channelDescription": "Channel 2"
 				"title": "Store 2",
 				"description": "Store 2"
 			},
 			{
 				"id": "S3",
-				"channelid": "C2d",
+				"channelId": "C2d",
+				"channelTitle" : "Channel 2",
 				"title": "Store 3",
 				"description": "Store 3"
 			}
