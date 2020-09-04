@@ -17,25 +17,24 @@
 				"id": "S1",
 				"channelId": "C1c",
 				"title": "Store 1",
-				"description": "Store 1"
+				"description": "Store D 1"
 			},
 			{
 				"id": "S2",
 				"channelId": "C2d",
 				"title": "Store 2",
-				"description": "Store 2"
+				"description": "Store D 2"
 			},
 			{
 				"id": "S3",
 				"channelId": null,
 				"title": "Store 3",
-				"description": "Store 3"
+				"description": "Store D 3"
 			},
 			{
-				"id": "S2",
+				"id": "S4",
 				"channelId": "C4c",
-				"title": "Store 2",
-				"description": "Store 2"
+				"title": "Store 4"
 			},
 		]
 	}
