@@ -3,12 +3,12 @@
 		"channels": [{
 				"id": "C1c",
 				"title": "Channel 1",
-				"description": "Channel 1"
+				"description": "Channel D 1"
 			},
 			{
 				"id": "C2d",
 				"title": "Channel 2",
-				"description": "Channel 2"
+				"description": "Channel D 2"
 			}
 		]
 	},
@@ -16,22 +16,18 @@
 		"stores": [{
 				"id": "S1",
 				"channelId": "C1c",
-				"channelTitle" : "Channel T 1",
 				"title": "Store 1",
 				"description": "Store 1"
 			},
 			{
 				"id": "S2",
 				"channelId": "C2d",
-				"channelTitle" : "Channel T 2",
-				"channelDescription": "Channel D 2",
 				"title": "Store 2",
 				"description": "Store 2"
 			},
 			{
 				"id": "S3",
 				"channelId": "C2d",
-				"channelTitle" : "Channel T 2",
 				"title": "Store 3",
 				"description": "Store 3"
 			}
