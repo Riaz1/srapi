@@ -27,10 +27,16 @@
 			},
 			{
 				"id": "S3",
-				"channelId": "C2d",
+				"channelId": null,
 				"title": "Store 3",
 				"description": "Store 3"
-			}
+			},
+			{
+				"id": "S2",
+				"channelId": "C4c",
+				"title": "Store 2",
+				"description": "Store 2"
+			},
 		]
 	}
 }
